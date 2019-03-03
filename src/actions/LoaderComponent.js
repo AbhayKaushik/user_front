@@ -13,7 +13,7 @@ export default class LoaderComponent extends Component {
         }
     }
     componentDidMount() {
-        axios.get('https://api.github.com/users/KrunalLathiya')
+        axios.get('')
         .then(response => {
             this.setState({
                 name:response.data.name,

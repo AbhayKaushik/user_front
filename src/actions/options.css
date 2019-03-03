@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding:  0;
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    background: linear-gradient(119.9deg, rgba(3, 83, 237, 0.13) 0.63%, rgba(8, 500, 115, 0.75) 99.42%);
+    
+  }
+  
+  h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 100px;
+    /*font-style: italic;*/
+    padding-left: 30px;
+    color: #000000;
+    /*background: linear-gradient(119.9deg, rgba(3, 83, 237, 0.13) 0.63%, rgba(8, 240, 115, 0.25) 99.42%);*/
+  }
+  
+  /*#nav {
+    width: 100%;
+    background-color: #00316b;
+  }  */
+  
+  ul {
+    width : 100%;
+    margin: 0 ;
+    padding: 0;
+  }
+  
+  ul li {
+    list-style : none;
+    display: inline-block;
+    /*padding: ;*/
+    max-width: 100%;
+    width: 32.8%;
+    height: 640px;
+    /*padding-right: 20px;
+    padding-left: 20px;*/
+    color: #ffffff;
+  }
+
+   i{
+    font-size: 100px;
+    matext-align: center;
+    margin-bottom: 50px;  
+    }  
+    
+    div {
+      color: #000000;
+      padding-top: 180px;
+      text-align: center;
+      text-size:30px;
+    }  
+    
+    .navigation{
+      margin-top: 30px;
+      text-align:center;
+      font-size: 20px;  
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      padding-right: 10px;  
+      display: inline-block;
+      color: #ffffff;  
+      /*width: 281px;
+      height: 67px;*/
+      background: linear-gradient(90deg, #20EF98 34.25%, #3FF17B 100%);
+      border-radius: 50px;
+    }
+    
+    .navigation:hover{
+      /*border-radius: 0px;*/
+      box-shadow: 0.2em 0.5em 0.3em -0.4em  #000000;
+    }
+    
+    /* CSS for navbar*/
+    .nav{
+      display: inline-block;
+      width: auto;
+      height: 40px;
+      text-align: right;
+      padding-right: 10px;
+      padding-left: 10px;
+      color: #000000;
+    }
+    .nav:hover {
+      border-bottom: 5px;
+      border-color: black;
+      background-color: #66ffff;
+    }  
+    
+    #dlogin {
+      background: linear-gradient(90deg, #FF2F23 34.25%, #FF3232 100%);
+    }
+    
+    #dregister {
+      background: linear-gradient(90deg, #FF2F23 34.25%, #FF3232 100%);
+    }
+    

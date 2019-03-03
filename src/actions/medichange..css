@@ -1,0 +1,25 @@
+*{
+    font-size: 50px;
+  }
+  
+  body {
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    margin: 2em;
+    font-size: 20px;
+    background: linear-gradient(119.9deg, rgba(3, 83, 237, 0.13) 0.63%, rgba(8, 500, 115, 0.75) 99.42%);
+  }
+  
+  h1 {
+    font-size: 30px;
+    color: #000000;
+  }
+  
+  p {
+    font-size : 15px;
+    text-align: center;
+  }
+  
+  i {
+    text-align:center;
+  }
